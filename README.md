@@ -8,7 +8,7 @@ The original task was based on a synthetic dataset simulating fluorescence inten
 - Correcting for background fluorescence and noise.
 - Identifying statistically significant molecular hits.
 - Analyzing the contributions of building blocks (BB1, BB2, BB3) to binding affinity.
-- Optionally training a regression model to predict molecular binding intensity using one-hot encoded building block combinations.
+- Training a regression model to predict molecular binding intensity using one-hot encoded building block combinations.
 
 Due to confidentiality, no real data is included in this repository. All visualizations and modeling steps were rebuilt using synthetic inputs that mimic the format and complexity of the original data.
 
