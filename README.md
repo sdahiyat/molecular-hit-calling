@@ -1,7 +1,7 @@
 # Molecular Binding Data Challenge 
 This repository contains a cleaned and anonymized version of a machine learning and data preprocessing pipeline originally developed for a technical data science exercise. All proprietary data has been removed, and synthetic examples are used for illustrative purposes.
 
-## 📄 Background
+## Background
 
 The original task was based on a synthetic dataset simulating fluorescence intensity data generated from a high-throughput molecular screening platform. The challenge involved:
 
@@ -32,6 +32,6 @@ Due to confidentiality, no real data is included in this repository. All visuali
 
 ## Disclaimer
 
-This repository does **not** include any proprietary data or sensitive insights. All datasets have been replaced with synthetically generated inputs that preserve the general structure of the original exercise.
+This repository does not include any proprietary data or sensitive insights. All datasets have been replaced with synthetically generated inputs that preserve the general structure of the original exercise.
 
 These notebooks are for **demonstration purposes only** and reflect the author’s own implementation and reasoning in response to a technical challenge prompt.
