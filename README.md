@@ -1,4 +1,4 @@
-# Molecular Binding Data Challenge 
+# Molecular Binding Project 
 This repository contains a cleaned and anonymized version of a machine learning and data preprocessing pipeline originally developed for a technical data science exercise. All proprietary data has been removed, and synthetic examples are used for illustrative purposes.
 
 ## Background
